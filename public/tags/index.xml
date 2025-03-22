@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - My English Site</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://ShuvamKhamrui223.github.io/tags/</link>
         <description>Tags - Tag - My English Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://ShuvamKhamrui223.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Espagne</title>
-    <link>http://localhost:1313/tags/espagne/</link>
+    <link>https://ShuvamKhamrui223.github.io/tags/espagne/</link>
     <pubDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/tags/espagne/</guid>
+    <guid>https://ShuvamKhamrui223.github.io/tags/espagne/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Pays Basque</title>
-    <link>http://localhost:1313/tags/pays-basque/</link>
+    <link>https://ShuvamKhamrui223.github.io/tags/pays-basque/</link>
     <pubDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/tags/pays-basque/</guid>
+    <guid>https://ShuvamKhamrui223.github.io/tags/pays-basque/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

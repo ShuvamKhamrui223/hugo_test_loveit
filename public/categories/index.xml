@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - My English Site</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://ShuvamKhamrui223.github.io/categories/</link>
         <description>Categories - Category - My English Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://ShuvamKhamrui223.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Espagne</title>
-    <link>http://localhost:1313/categories/espagne/</link>
+    <link>https://ShuvamKhamrui223.github.io/categories/espagne/</link>
     <pubDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/categories/espagne/</guid>
+    <guid>https://ShuvamKhamrui223.github.io/categories/espagne/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Notes</title>
-    <link>http://localhost:1313/categories/notes/</link>
+    <link>https://ShuvamKhamrui223.github.io/categories/notes/</link>
     <pubDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/categories/notes/</guid>
+    <guid>https://ShuvamKhamrui223.github.io/categories/notes/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Voyages</title>
-    <link>http://localhost:1313/categories/voyages/</link>
+    <link>https://ShuvamKhamrui223.github.io/categories/voyages/</link>
     <pubDate>Sat, 13 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/categories/voyages/</guid>
+    <guid>https://ShuvamKhamrui223.github.io/categories/voyages/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
