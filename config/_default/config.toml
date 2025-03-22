@@ -9,6 +9,10 @@ ignoreErrors = ["error-remote-getjson"]
 # Remove or comment out incorrect themesDir
 # themesDir = "../.."  # Not needed unless themes are in a custom location
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 # Multilingual configuration
 [languages]
   [languages.en]
