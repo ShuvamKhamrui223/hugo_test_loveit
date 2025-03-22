@@ -1,0 +1,23 @@
+name: OneSignal Notification
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send OneSignal Notification
+        run: |
+          curl --location --request POST 'https://onesignal.com/api/v1/notifications' \
+          --header 'Authorization: Basic os_v2_app_tbv5busfvvce3kvuvajlb2oktxmg7vqqgr7e5veq2nbof5urufyipakmmcyi4lvmggksfjrhfkjs3mgxqhyjy7fd6pot4jtjowhxkmq' \
+          --header 'Content-Type: application/json' \
+          --data-raw '{
+            "app_id": "986bd0d2-45ad-444d-aab4-a812b0e9ca9d",
+            "included_segments": ["All"],
+            "headings": {"en": "New Article Published!"},
+            "contents": {"en": "Check out our latest post: TITLE"},
+            "url": "https://yourwebsite.com"
+          }'

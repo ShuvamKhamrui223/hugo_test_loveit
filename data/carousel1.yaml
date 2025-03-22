@@ -1,4 +1,4 @@
-images: 
+images:
   - image: /images/uploads/slider1/2015_Bilbao_Spain_IMG_1480.JPG
     content_html: ""
   - image: /images/uploads/slider1/2015_Bilbao_Spain_IMG_1481.JPG
@@ -35,4 +35,3 @@ images:
     content_html: ""
   - image: /images/uploads/slider1/2015_Bilbao_Spain_DSC_0133.JPG
     content_html: ""
-

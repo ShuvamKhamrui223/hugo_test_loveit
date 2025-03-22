@@ -232,6 +232,9 @@ header {
       .header-title {
         font-size: var(--header-title-font-size);
         max-width: 80%;
+        a{
+          color: #af3111 !important;
+        }
       }
 
       .menu-toggle {
